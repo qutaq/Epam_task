@@ -1,0 +1,19 @@
+/* Default styles */
+body {
+    margin: 0;
+}
+
+/* Blocks */
+.sortimg {
+    width: 10px;
+}
+
+.up .sortimg {
+    -webkit-transform: rotate(60deg);
+    -ms-transform: rotate(60deg);
+    transform: rotate(60deg);
+}
+
+.btnadd {
+    margin-top: 20px;
+}
